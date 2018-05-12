@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1590
     wikipedia: http://en.wikipedia.org/wiki/Samuel_Rutherford_Crockett
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34230#Sweethearts-at-Home
 gutenberg_issued: '2010-11-07'
 gutenberg_type: Text
 identifiers:
